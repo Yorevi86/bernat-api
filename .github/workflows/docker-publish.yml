@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: yorevi86/bernat-api:latest , yorevi86/bernat-api:${{github.event.pull_request.title}}
+          tags: yorevi/bernat-api:latest , yorevi/bernat-api:${{github.event.pull_request.title}}
