@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Jonatan",
+        "apellidos": "Carrera Viera",
+        "genero": "hombre",
+        "empresa": "NTTData"
+    },
+    {
+        "id": 2,
+        "nombre": "Pablo",
+        "apellidos": "Domínguez Romero",
+        "genero": "hombre",
+        "empresa": "NTTData"
+    },
+    {
+        "id": 3,
+        "nombre": "Fernando",
+        "apellidos": "Pérez Nieto",
+        "genero": "hombre",
+        "empresa": "NTTData"
+    },
+    {
+        "id": 4,
+        "nombre": "Rafael Felipe",
+        "apellidos": "Herrera Chávez",
+        "genero": "hombre",
+        "empresa": "NTTData"
+    },
+    {
+        "id": 5,
+        "nombre": "Eva",
+        "apellidos": "Cárdenas Bermúdez",
+        "genero": "mujer",
+        "empresa": "NTTData"
+    }
+]
