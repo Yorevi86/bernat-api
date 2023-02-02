@@ -10,8 +10,8 @@ Para usar la API necesitaremos descargarnos la API de **dockerhub** con el sigui
 Para consultar la documentación de la API construida con Swagger acceder a la dirección [Swagger](http://localhost:3000/api/docs).
 
 ## Bibliografía
-Construcción y llamada del archivo swagger: (https://www.youtube.com/watch?v=RayDPBYou4I&ab_channel=CarlosAzaustre-AprendeJavaScript) por Carlos Azaustre - Aprende JavaScript.
+Construcción y llamada del archivo swagger: https://www.youtube.com/watch?v=RayDPBYou4I&ab_channel=CarlosAzaustre-AprendeJavaScript por Carlos Azaustre - Aprende JavaScript.
 
-Realización de la API usando Node.js: (https://www.youtube.com/watch?v=bK3AJfs7qNY&t=4050s) por Fazt Code.
+Realización de la API usando Node.js: https://www.youtube.com/watch?v=bK3AJfs7qNY&t=4050s por Fazt Code.
 
-Editor de Swagger para la construcción del swagger.js: (https://editor.swagger.io/)
+Editor de Swagger para la construcción del swagger.js: https://editor.swagger.io/
