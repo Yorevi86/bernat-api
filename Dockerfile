@@ -18,4 +18,4 @@ COPY ./src/ ./src/
 EXPOSE 1234
 
 # Comando para ejecutar la imagen una vez instanciada
-CMD ["npm","dev"]
+CMD ["npm","start"]
