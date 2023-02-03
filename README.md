@@ -7,7 +7,7 @@ Para usar la API necesitaremos descargarnos la API de **dockerhub** con el sigui
 <sup>docker run -d -p 1234:1234 yorevi/bernat-api</sup>
 
 ## Documentación swagger
-Para consultar la documentación de la API construida con Swagger acceder a la dirección [Swagger](http://localhost:3000/api/docs).
+Para consultar la documentación de la API construida con Swagger acceder a la dirección [Swagger](http://localhost:1234/api/docs).
 
 ## Bibliografía
 Construcción y llamada del archivo swagger: https://www.youtube.com/watch?v=RayDPBYou4I&ab_channel=CarlosAzaustre-AprendeJavaScript por Carlos Azaustre - Aprende JavaScript.
