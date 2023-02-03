@@ -1,9 +1,9 @@
 FROM node:18-alpine
 
 # Creación de directorios
-RUN mkdir -p /usr/src/bernat-api/src
+RUN mkdir -p /usr/src/app/src
 
-WORKDIR /usr/src/index
+WORKDIR /usr/src/app
 
 # Copiando los archivos JSON al contenedor
 COPY package*.json ./
