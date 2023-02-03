@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM node:19-alpine3.15
 
 # Creación de directorios
 RUN mkdir -p /usr/src/app/src
@@ -6,10 +6,10 @@ RUN mkdir -p /usr/src/app/src
 WORKDIR /usr/src/app
 
 # Copiando los archivos JSON al contenedor
-COPY package*.json ./
+COPY package.json ./
 
 # Instalando dependencias en el contenedor
-RUN npm i 
+RUN npm install
 
 # Copiando el resto de archivos
 COPY ./src/ ./src/
